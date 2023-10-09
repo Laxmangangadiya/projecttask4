@@ -1,0 +1,48 @@
+/* myfirstphoto */
+.myfirstphoto{
+    display: flex;
+}
+.photo1 h2{
+    color: blue;
+}
+.photo1{
+    margin-left: 30%;
+    align-items: first baseline;
+}
+
+.photo1 p{
+    color: darkgray;
+}
+.photo2 h2{
+    color: blue;
+}
+.photo2{
+    margin-left: 20%;
+}
+.photo2 p{
+    color: darkgrey;
+}
+/* mysecondphoto */
+.mysecondphoto{
+    display: flex;
+}
+.photo3{
+    margin-left: 30%;
+    margin-top: 7%;
+}
+.photo3 h2{
+    color: blue;
+}
+.photo3 p{
+    color: darkgray;
+}
+.photo4{
+    margin-left:20%;
+    margin-top: 7%;
+}
+.photo4 h2{
+    color: blue;
+}
+.photo4 p{
+    color: darkgrey;
+}
